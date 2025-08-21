@@ -1,4 +1,4 @@
-#Exploratory Data Analysis of Airlines dataset
+#Exploratory Data Analysis of Airlines dataset from Kaggle https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data 
 Airlines Flights Data Analysis
 ##Project Overview
 This project explores the Airlines Flights Dataset to uncover patterns in flight delays, cancellations, and operational efficiency. Using Python for EDA and optional Power BI/Tableau dashboards, the analysis highlights actionable insights for business and operational decision-making.
